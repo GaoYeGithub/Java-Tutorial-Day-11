@@ -1,0 +1,1 @@
+Covered javafx application, scene, Label, Button, layout, Stage, VBox and other useful javafx components
